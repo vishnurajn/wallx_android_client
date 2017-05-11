@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_fc9c895936f2a5889f55f39ebced818744ff38e3.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.4.0_ecd23127881ee16d9a78794f84a9c586628e0497.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.2.0_fcc1d7965560d82912ee875251da693136c31460.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.4.0_024e5f2b2ca3a32b632295c45108e3c6189fed95.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.0_dcc153aba7dc5d31739502ae9bdb1ad1fcc3d700.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_b2da15e911fdbe3d6bb1d8201fe023b800a4397a.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.4.0_a692799b11564cdf00bf8eac49f3ed92766bdfbd.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_9e4cb33c76b0b1b7b78cd395c2af04cc231c2f76.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_9531cec2a532a9a67584039052adf52a666187af.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\picasso-2.5.2_1ecfbf13706e94f30e9582a2eeea79eadb130abb.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_8653520e5c02fcdb6c0260a7ec652279876352e2.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_ffea1b8bef3b33433d23821512295f8932c1dcab.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.4.0_1958de09e5313dfc71d911ec52742359bcb69511.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_160b211ecdc332493c0e2cffb81951691b7b3daf.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_6e3715805cd341cf5e67518ee7e8f7f3a1c82dd7.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.0_a8b3ac500f94bfb690766b435a03e28ce3fbd576.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.4.0_2f599d35cf278231ede6fb31bfc4310fd1b95c27.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_219eddee0595652d907ab8a2522cc6b42509e23e.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_872a36112b3414ce461f23109663233817c55e8f.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-9.4.0_e861dbe8a291ae24813c4941b05bbdaf3fd2e911.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.4.0_d2bcf02d002619ff3ad5f801fd09ac1ed9238a8d.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_7534e0ffae4d425c4aad6445bbb228cdf5231226.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.github.clans-fab-1.6.4_e14fe4a34c78711ebf29869bc034029d00eba7dd.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.4.0_229f777287457c126b004b5863376b96c5520200.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.4.0_71df4ae3476cccc05dec6c8a72e5367a50eddfec.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_0c99df5a1a6f0c4fb613b68377e7ca1964f054e3.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_469bfd2443a2357546f7f9c7bf32ffffe6f0ea18.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-9.4.0_63edd6975b44d690fabc868ee9ae56644710e184.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.4.0_8729a21a87b9a7ef2ef94009523eac3466db13c9.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.1_c076cda856220138e3df2325c662f138a0c5540b.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_ef8ffc31a62a22241d44aa1671110fd95e0d3491.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_c723ad3775d158a39a311d6c393f5cba67fb0b23.jar" />
+    </item>
+    <item
+        jar="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="D:\wallapp\main ying\Main App\MaterialWallpaperFirebase\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.4.0_4c646261ca92486131cd32fd5f8b5beeb368dc2f.jar" />
+    </item>
+
+</items>
